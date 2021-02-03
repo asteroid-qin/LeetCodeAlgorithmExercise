@@ -301,7 +301,22 @@
     <ClCompile Include="821.ShortestDistancetoaCharacter.cpp" />
     <ClCompile Include="824.GoatLatin.cpp" />
     <ClCompile Include="83.RemoveDuplicatesFromSortedList.cpp" />
+    <ClCompile Include="830.PositionsofLargeGroups.cpp" />
+    <ClCompile Include="832.FlippinganImage.cpp" />
+    <ClCompile Include="836.RectangleOverlap.cpp" />
+    <ClCompile Include="844.BackspaceStringCompare.cpp" />
+    <ClCompile Include="852.PeakIndexinaMountainArray.cpp" />
+    <ClCompile Include="859.BuddyStrings.cpp" />
+    <ClCompile Include="860.LemonadeChange.cpp" />
+    <ClCompile Include="867.TransposeMatrix.cpp" />
+    <ClCompile Include="868.BinaryGap.cpp" />
+    <ClCompile Include="872.Leaf-SimilarTrees.cpp" />
+    <ClCompile Include="876.MiddleoftheLinkedList.cpp" />
     <ClCompile Include="88.MergeSortedArray.cpp" />
+    <ClCompile Include="883.ProjectionAreaof3DShapes.cpp" />
+    <ClCompile Include="884.UncommonWordsfromTwoSentences.cpp" />
+    <ClCompile Include="888.FairCandySwap.cpp" />
+    <ClCompile Include="892.SurfaceAreaof3DShapes.cpp" />
     <ClCompile Include="9.PalindromeNumber.cpp" />
     <ClCompile Include="26.RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="7.ReverseInteger.cpp" />
@@ -313,7 +328,6 @@
     <ClCompile Include="27.RemoveElementPlus.cpp" />
     <ClCompile Include="28.ImplementStrStr%28%29.cpp" />
     <ClCompile Include="35.SearchInsertPosition.cpp" />
-    <ClCompile Include="由401题引发得到的一题.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="746.MinCostClimbingStairs.cpp" />

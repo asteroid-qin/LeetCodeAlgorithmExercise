@@ -13,9 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="源文件\测试用">
-      <UniqueIdentifier>{c4cd52da-6773-4566-9e53-cecd285d780d}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="27.RemoveElement.cpp">
@@ -282,9 +279,6 @@
     <ClCompile Include="405.ConvertaNumbertoHexadecimal.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="由401题引发得到的一题.cpp">
-      <Filter>源文件\测试用</Filter>
-    </ClCompile>
     <ClCompile Include="412.FizzBuzz.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -541,6 +535,51 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="824.GoatLatin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="830.PositionsofLargeGroups.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="832.FlippinganImage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="836.RectangleOverlap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="844.BackspaceStringCompare.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="852.PeakIndexinaMountainArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="859.BuddyStrings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="860.LemonadeChange.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="867.TransposeMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="868.BinaryGap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="872.Leaf-SimilarTrees.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="876.MiddleoftheLinkedList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="883.ProjectionAreaof3DShapes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="884.UncommonWordsfromTwoSentences.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="888.FairCandySwap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="892.SurfaceAreaof3DShapes.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
