@@ -140,13 +140,35 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="100.SameTree.cpp" />
+    <ClCompile Include="1002.FindCommonCharacters.cpp" />
+    <ClCompile Include="1005.MaximizeSumOfArrayAfterKNegations.cpp" />
+    <ClCompile Include="1009.ComplementofBase10Integer.cpp" />
     <ClCompile Include="101.SymmetricTree.cpp" />
+    <ClCompile Include="1013.PartitionArrayIntoThreePartsWithEqualSum.cpp" />
+    <ClCompile Include="1018.BinaryPrefixDivisibleBy5.cpp" />
+    <ClCompile Include="1021.RemoveOutermostParentheses.cpp" />
+    <ClCompile Include="1022.SumofRootToLeafBinaryNumbers.cpp" />
+    <ClCompile Include="1025.DivisorGame.cpp" />
+    <ClCompile Include="1030.MatrixCellsinDistanceOrder.cpp" />
+    <ClCompile Include="1033.MovingStonesUntilConsecutive.cpp" />
+    <ClCompile Include="1037.ValidBoomerang.cpp" />
     <ClCompile Include="104.MaximumDepthOfBinaryTree.cpp" />
+    <ClCompile Include="1046.LastStoneWeight.cpp" />
+    <ClCompile Include="1047.RemoveAllAdjacentDuplicatesInString.cpp" />
+    <ClCompile Include="1051.HeightChecker.cpp" />
     <ClCompile Include="107.BinaryTreeLevelOrderTraversal II.cpp" />
+    <ClCompile Include="1071.GreatestCommonDivisorofStrings.cpp" />
+    <ClCompile Include="1078.OccurrencesAfterBigram.cpp" />
     <ClCompile Include="108.ConvertSortedArraytoBinarySearchTree.cpp" />
+    <ClCompile Include="1089.DuplicateZeros.cpp" />
     <ClCompile Include="110.BalancedBinaryTree.cpp" />
+    <ClCompile Include="1103.DistributeCandiestoPeople.cpp" />
+    <ClCompile Include="1108.DefanginganIPAddress.cpp" />
     <ClCompile Include="111.MinimumDepthofBinaryTree.cpp" />
     <ClCompile Include="112.PathSum.cpp" />
+    <ClCompile Include="1122.RelativeSortArray.cpp" />
+    <ClCompile Include="1128.NumberofEquivalentDominoPairs.cpp" />
+    <ClCompile Include="1137.N-thTribonacciNumber.cpp" />
     <ClCompile Include="118.Pascal%27sTriangle.cpp" />
     <ClCompile Include="119.Pascal%27sTriangleII.cpp" />
     <ClCompile Include="121.BestTimetoBuyandSellStock.cpp" />
@@ -317,6 +339,9 @@
     <ClCompile Include="884.UncommonWordsfromTwoSentences.cpp" />
     <ClCompile Include="888.FairCandySwap.cpp" />
     <ClCompile Include="892.SurfaceAreaof3DShapes.cpp" />
+    <ClCompile Include="893.GroupsofSpecial-EquivalentStrings.cpp" />
+    <ClCompile Include="896.MonotonicArray.cpp" />
+    <ClCompile Include="897.IncreasingOrderSearchTree.cpp" />
     <ClCompile Include="9.PalindromeNumber.cpp" />
     <ClCompile Include="26.RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="7.ReverseInteger.cpp" />
@@ -328,6 +353,29 @@
     <ClCompile Include="27.RemoveElementPlus.cpp" />
     <ClCompile Include="28.ImplementStrStr%28%29.cpp" />
     <ClCompile Include="35.SearchInsertPosition.cpp" />
+    <ClCompile Include="905.SortArrayByParity.cpp" />
+    <ClCompile Include="908.SmallestRangeI.cpp" />
+    <ClCompile Include="914.XofaKindinaDeckofCards.cpp" />
+    <ClCompile Include="917.ReverseOnlyLetters.cpp" />
+    <ClCompile Include="922.SortArrayByParityII.cpp" />
+    <ClCompile Include="925.LongPressedName.cpp" />
+    <ClCompile Include="929.UniqueEmailAddresses.cpp" />
+    <ClCompile Include="933.NumberofRecentCalls.cpp" />
+    <ClCompile Include="937.ReorderDatainLogFiles.cpp" />
+    <ClCompile Include="938.RangeSumofBST.cpp" />
+    <ClCompile Include="941.ValidMountainArray.cpp" />
+    <ClCompile Include="942.DIStringMatch.cpp" />
+    <ClCompile Include="944.DeleteColumnstoMakeSorted.cpp" />
+    <ClCompile Include="953.VerifyinganAlienDictionary.cpp" />
+    <ClCompile Include="961.N-RepeatedElementinSize2NArray.cpp" />
+    <ClCompile Include="965.UnivaluedBinaryTree.cpp" />
+    <ClCompile Include="976.LargestPerimeterTriangle.cpp" />
+    <ClCompile Include="977.SquaresofaSortedArray.cpp" />
+    <ClCompile Include="985.SumofEvenNumbersAfterQueries.cpp" />
+    <ClCompile Include="989.AddtoArray-FormofInteger.cpp" />
+    <ClCompile Include="993.CousinsinBinaryTree.cpp" />
+    <ClCompile Include="997.FindtheTownJudge.cpp" />
+    <ClCompile Include="999.AvailableCapturesforRook.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="746.MinCostClimbingStairs.cpp" />

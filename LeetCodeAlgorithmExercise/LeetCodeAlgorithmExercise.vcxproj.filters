@@ -582,6 +582,150 @@
     <ClCompile Include="892.SurfaceAreaof3DShapes.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="893.GroupsofSpecial-EquivalentStrings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="896.MonotonicArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="897.IncreasingOrderSearchTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="905.SortArrayByParity.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="908.SmallestRangeI.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="914.XofaKindinaDeckofCards.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="917.ReverseOnlyLetters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="922.SortArrayByParityII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="925.LongPressedName.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="929.UniqueEmailAddresses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="933.NumberofRecentCalls.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="937.ReorderDatainLogFiles.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="938.RangeSumofBST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="941.ValidMountainArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="942.DIStringMatch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="944.DeleteColumnstoMakeSorted.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="953.VerifyinganAlienDictionary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="961.N-RepeatedElementinSize2NArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="965.UnivaluedBinaryTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="976.LargestPerimeterTriangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="977.SquaresofaSortedArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="985.SumofEvenNumbersAfterQueries.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="989.AddtoArray-FormofInteger.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="993.CousinsinBinaryTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="997.FindtheTownJudge.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="999.AvailableCapturesforRook.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1002.FindCommonCharacters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1005.MaximizeSumOfArrayAfterKNegations.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1009.ComplementofBase10Integer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1013.PartitionArrayIntoThreePartsWithEqualSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1018.BinaryPrefixDivisibleBy5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1021.RemoveOutermostParentheses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1022.SumofRootToLeafBinaryNumbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1025.DivisorGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1030.MatrixCellsinDistanceOrder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1033.MovingStonesUntilConsecutive.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1037.ValidBoomerang.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1046.LastStoneWeight.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1047.RemoveAllAdjacentDuplicatesInString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1051.HeightChecker.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1071.GreatestCommonDivisorofStrings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1078.OccurrencesAfterBigram.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1089.DuplicateZeros.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1108.DefanginganIPAddress.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1103.DistributeCandiestoPeople.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1122.RelativeSortArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1128.NumberofEquivalentDominoPairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1137.N-thTribonacciNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="746.MinCostClimbingStairs.cpp">
