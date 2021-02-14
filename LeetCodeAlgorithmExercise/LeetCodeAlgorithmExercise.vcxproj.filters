@@ -726,6 +726,132 @@
     <ClCompile Include="1137.N-thTribonacciNumber.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1154.DayoftheYear.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1160.FindWordsThatCanBeFormedbyCharacters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1175.PrimeArrangements.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1184.DistanceBetweenBusStops.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1185.DayoftheWeek.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1189.MaximumNumberofBalloons.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1200.MinimumAbsoluteDifference.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1207.UniqueNumberofOccurrences.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1217.MinimumCosttoMoveChipstoTheSamePosition.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1221.SplitaStringinBalancedStrings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1232.CheckIfItIsaStraightLine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1252.CellswithOddValuesinaMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1260.Shift2DGrid.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1266.MinimumTimeVisitingAllPoints.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1275.FindWinneronaTicTacToeGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1281.SubtracttheProductandSumofDigitsofanInteger.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1287.ElementAppearingMoreThan25InSortedArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1290.ConvertBinaryNumberinaLinkedListtoInteger.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1295.FindNumberswithEvenNumberofDigits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1299.ReplaceElementswithGreatestElementonRightSide.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1304.FindNUniqueIntegersSumuptoZero.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1309.DecryptStringfromAlphabettoIntegerMapping.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1313.DecompressRun-LengthEncodedList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1317.ConvertIntegertotheSumofTwoNo-ZeroIntegers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1323.Maximum69Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1331.RankTransformofanArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1332.RemovePalindromicSubsequences.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1337.TheKWeakestRowsinaMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1342.NumberofStepstoReduceaNumbertoZero.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1346.CheckIfNandItsDoubleExist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1351.CountNegativeNumbersinaSortedMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1356.SortIntegersbyTheNumberof1Bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1360.NumberofDaysBetweenTwoDates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1365.HowManyNumbersAreSmallerThantheCurrentNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1370.IncreasingDecreasingString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1374.GenerateaStringWithCharactersThatHaveOddCounts.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1380.LuckyNumbersinaMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1385.FindtheDistanceValueBetweenTwoArrays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1389.CreateTargetArrayintheGivenOrder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1394.FindLuckyIntegerinanArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1399.CountLargestGroup.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1403.MinimumSubsequenceinNon-IncreasingOrder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="746.MinCostClimbingStairs.cpp">
