@@ -882,6 +882,51 @@
     <ClCompile Include="1450.NumberofStudentsDoingHomeworkataGivenTime.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1455.CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1460.MakeTwoArraysEqualbyReversingSub-arrays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1464.MaximumProductofTwoElementsinanArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1470.ShuffletheArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1475.FinalPricesWithaSpecialDiscountinaShop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1480.RunningSumof1dArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1486.XOROperationinanArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1491.AverageSalaryExcludingtheMinimumandMaximumSalary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1496.PathCrossing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1502.CanMakeArithmeticProgressionFromSequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1507.ReformatDate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1512.NumberofGoodPairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1518.WaterBottles.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1523.CountOddNumbersinanIntervalRange.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1528.ShuffleString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="746.MinCostClimbingStairs.cpp">
