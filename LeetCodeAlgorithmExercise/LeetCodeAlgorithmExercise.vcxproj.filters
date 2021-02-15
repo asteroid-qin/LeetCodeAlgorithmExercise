@@ -852,6 +852,36 @@
     <ClCompile Include="1403.MinimumSubsequenceinNon-IncreasingOrder.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1408.StringMatchinginanArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1413.MinimumValuetoGetPositiveStepbyStepSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1417.ReformatTheString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1422.MaximumScoreAfterSplittingaString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1431.KidsWiththeGreatestNumberofCandies.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1436.DestinationCity.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1437.CheckIfAll1%27sAreatLeastLengthKPlacesAway.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1441.BuildanArrayWithStackOperations.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1446.ConsecutiveCharacters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1450.NumberofStudentsDoingHomeworkataGivenTime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="746.MinCostClimbingStairs.cpp">

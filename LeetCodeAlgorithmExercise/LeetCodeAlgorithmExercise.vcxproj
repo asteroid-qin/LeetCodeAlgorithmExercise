@@ -217,7 +217,17 @@
     <ClCompile Include="1394.FindLuckyIntegerinanArray.cpp" />
     <ClCompile Include="1399.CountLargestGroup.cpp" />
     <ClCompile Include="1403.MinimumSubsequenceinNon-IncreasingOrder.cpp" />
+    <ClCompile Include="1408.StringMatchinginanArray.cpp" />
     <ClCompile Include="141. LinkedListCycle.cpp" />
+    <ClCompile Include="1413.MinimumValuetoGetPositiveStepbyStepSum.cpp" />
+    <ClCompile Include="1417.ReformatTheString.cpp" />
+    <ClCompile Include="1422.MaximumScoreAfterSplittingaString.cpp" />
+    <ClCompile Include="1431.KidsWiththeGreatestNumberofCandies.cpp" />
+    <ClCompile Include="1436.DestinationCity.cpp" />
+    <ClCompile Include="1437.CheckIfAll1%27sAreatLeastLengthKPlacesAway.cpp" />
+    <ClCompile Include="1441.BuildanArrayWithStackOperations.cpp" />
+    <ClCompile Include="1446.ConsecutiveCharacters.cpp" />
+    <ClCompile Include="1450.NumberofStudentsDoingHomeworkataGivenTime.cpp" />
     <ClCompile Include="155.MinStack.cpp" />
     <ClCompile Include="160.IntersectionofTwoLinkedLists.cpp" />
     <ClCompile Include="167.TwoSumII-InputArrayIsSorted.cpp" />
