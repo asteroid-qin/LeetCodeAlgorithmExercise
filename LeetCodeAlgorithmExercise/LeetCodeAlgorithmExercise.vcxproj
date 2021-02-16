@@ -243,8 +243,22 @@
     <ClCompile Include="1518.WaterBottles.cpp" />
     <ClCompile Include="1523.CountOddNumbersinanIntervalRange.cpp" />
     <ClCompile Include="1528.ShuffleString.cpp" />
+    <ClCompile Include="1534.CountGoodTriplets.cpp" />
+    <ClCompile Include="1539.KthMissingPositiveNumber.cpp" />
+    <ClCompile Include="1544.MakeTheStringGreat.cpp" />
     <ClCompile Include="155.MinStack.cpp" />
+    <ClCompile Include="1550.ThreeConsecutiveOdds.cpp" />
+    <ClCompile Include="1556.ThousandSeparator.cpp" />
+    <ClCompile Include="1560.MostVisitedSectorinaCircularTrack.cpp" />
+    <ClCompile Include="1566.DetectPatternofLengthMRepeatedKorMoreTimes.cpp" />
+    <ClCompile Include="1572.MatrixDiagonalSum.cpp" />
+    <ClCompile Include="1576.ReplaceAllstoAvoidConsecutiveRepeatingCharacters.cpp" />
+    <ClCompile Include="1582.SpecialPositionsinaBinaryMatrix.cpp" />
+    <ClCompile Include="1588.SumofAllOddLengthSubarrays.cpp" />
+    <ClCompile Include="1592.RearrangeSpacesBetweenWords.cpp" />
+    <ClCompile Include="1598.CrawlerLogFolder.cpp" />
     <ClCompile Include="160.IntersectionofTwoLinkedLists.cpp" />
+    <ClCompile Include="1603.DesignParkingSystem.cpp" />
     <ClCompile Include="167.TwoSumII-InputArrayIsSorted.cpp" />
     <ClCompile Include="168.ExcelSheetColumnTitle.cpp" />
     <ClCompile Include="169.MajorityElement.cpp" />
@@ -443,6 +457,8 @@
     <ClCompile Include="993.CousinsinBinaryTree.cpp" />
     <ClCompile Include="997.FindtheTownJudge.cpp" />
     <ClCompile Include="999.AvailableCapturesforRook.cpp" />
+    <ClCompile Include="蓝桥杯.c" />
+    <ClCompile Include="蓝桥杯C++.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="746.MinCostClimbingStairs.cpp" />

@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\测试用">
+      <UniqueIdentifier>{fc7cce2f-1b0a-48c6-9059-8ccb9c5a8ea9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="27.RemoveElement.cpp">
@@ -925,6 +928,54 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="1528.ShuffleString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥杯.c">
+      <Filter>源文件\测试用</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥杯C++.cpp">
+      <Filter>源文件\测试用</Filter>
+    </ClCompile>
+    <ClCompile Include="1534.CountGoodTriplets.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1539.KthMissingPositiveNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1544.MakeTheStringGreat.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1550.ThreeConsecutiveOdds.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1556.ThousandSeparator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1560.MostVisitedSectorinaCircularTrack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1566.DetectPatternofLengthMRepeatedKorMoreTimes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1572.MatrixDiagonalSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1576.ReplaceAllstoAvoidConsecutiveRepeatingCharacters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1582.SpecialPositionsinaBinaryMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1588.SumofAllOddLengthSubarrays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1592.RearrangeSpacesBetweenWords.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1598.CrawlerLogFolder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1603.DesignParkingSystem.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

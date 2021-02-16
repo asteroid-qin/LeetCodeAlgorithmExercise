@@ -338,3 +338,5 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/LeetCodeAlgorithmExercise/蓝桥杯.c
+/LeetCodeAlgorithmExercise/蓝桥杯C++.cpp
