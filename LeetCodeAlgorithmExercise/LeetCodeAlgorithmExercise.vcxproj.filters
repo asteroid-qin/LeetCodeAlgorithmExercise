@@ -978,6 +978,90 @@
     <ClCompile Include="1603.DesignParkingSystem.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1608.SpecialArrayWithXElementsGreaterThanorEqualX.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1614.MaximumNestingDepthoftheParentheses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1619.MeanofArrayAfterRemovingSomeElements.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1624.LargestSubstringBetweenTwoEqualCharacters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1629.SlowestKey.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1636.SortArraybyIncreasingFrequency.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1640.CheckArrayFormationThroughConcatenation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1646.GetMaximuminGeneratedArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1652.DefusetheBomb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1656.DesignanOrderedStream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1662.CheckIfTwoStringArraysareEquivalent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1668.MaximumRepeatingSubstring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1672.RichestCustomerWealth.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1678.GoalParserInterpretation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1684.CounttheNumberofConsistentStrings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1688.CountofMatchesinTournament.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1694.ReformatPhoneNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1700.NumberofStudentsUnabletoEatLunch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1704.DetermineifStringHalvesAreAlike.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1710.MaximumUnitsonaTruck.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1716.CalculateMoneyinLeetcodeBank.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1720.DecodeXORedArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1732.FindtheHighestAltitude.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1736.LatestTimebyReplacingHiddenDigits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1742.MaximumNumberofBallsinaBox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1748.SumofUniqueElements.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1758.MinimumChangesToMakeAlternatingBinaryString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1752.CheckifArrayIsSortedandRotated.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="746.MinCostClimbingStairs.cpp">
